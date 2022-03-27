@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5d36ebc6-8a86-6a8f-6867-da71df794ad6
 resourcetype: Document
 title: 17phenom.pdf
 uid: a1a9c70f-2065-62b3-9b49-3963c355800b

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5d36ebc6-8a86-6a8f-6867-da71df794ad6
 resourcetype: Document
 title: 27technomega.pdf
 uid: 4f8af798-a5e7-994b-fe3a-340ffbe2bf84

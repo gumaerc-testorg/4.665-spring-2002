@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5d36ebc6-8a86-6a8f-6867-da71df794ad6
 resourcetype: Document
 title: 6ctrlspace.pdf
 uid: 35885c8a-72e7-57df-8505-c952f96b8ba7

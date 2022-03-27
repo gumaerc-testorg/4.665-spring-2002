@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5d36ebc6-8a86-6a8f-6867-da71df794ad6
 resourcetype: Document
 title: 26traces.pdf
 uid: 363dcbd7-13ec-adab-e96d-4fccab1b4a8f

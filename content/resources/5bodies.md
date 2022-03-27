@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5d36ebc6-8a86-6a8f-6867-da71df794ad6
 resourcetype: Document
 title: 5bodies.pdf
 uid: 257eb663-0980-f17e-54cd-914e418f91db
