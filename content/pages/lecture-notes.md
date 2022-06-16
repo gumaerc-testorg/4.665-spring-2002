@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the class. They include
+  a listing, in order, of the images viewed and discussed in each class.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -45,7 +47,7 @@ Introduction
 Megacities
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/2mega))
+({{% resource_link b7ff9836-c7f4-d34c-ad04-3141ed4b960b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ Blobs, Curves and the Formless
 Theory Outtake 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/4outtake))
+({{% resource_link adcf46bb-b27a-5ec8-cda6-658f418345d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Theory Outtake 1
 Bodies
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5bodies))
+({{% resource_link 257eb663-0980-f17e-54cd-914e418f91db "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Bodies
 CTRL \[Space\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/6ctrlspace))
+({{% resource_link 35885c8a-72e7-57df-8505-c952f96b8ba7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Environmentalism
 Architecture and Deconstruction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/8decon))
+({{% resource_link 893e2aea-7df5-6299-df0e-c922a6958e31 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +131,7 @@ Architecture and Deconstruction
 The New York Five
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/9ny5))
+({{% resource_link a397e992-6cee-ad0d-a069-c64824df0ddb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +155,7 @@ First Interim Exam
 Architecture and Post - Modernism
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/11pomo))
+({{% resource_link 1d7a7f5b-6064-b3ed-b1ab-48b3db854ec2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +167,7 @@ Architecture and Post - Modernism
 Kenneth Frampton and Critical Regionalism
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12frampton))
+({{% resource_link 0e169930-b307-0c1f-d3f5-243374a28d8a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +179,7 @@ Kenneth Frampton and Critical Regionalism
 Modernisms Elsewhere
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/13mods))
+({{% resource_link acc9444f-d6b7-c875-fca7-9bac2371c70e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +227,7 @@ Theory Outtake 2
 Phenomenology and Place
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/17phenom))
+({{% resource_link a1a9c70f-2065-62b3-9b49-3963c355800b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +239,7 @@ Phenomenology and Place
 Minimalism and Monumentality - Louis Kahn
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/18kahn))
+({{% resource_link 20f461f0-1ce0-0279-9d4a-856b12fe9086 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +263,7 @@ Second Interim Exam
 Voyages into the Surface - Robert Venturi and Denise Scott-Brown
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/20voyages))
+({{% resource_link d1f2002b-7d8c-d46d-3b87-121e13215734 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +275,7 @@ Voyages into the Surface - Robert Venturi and Denise Scott-Brown
 Aldo Rossi and the Archetypes of Memory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/21rossi))
+({{% resource_link 26b3cda2-884f-eb14-519a-2a4c53e722ec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -285,7 +287,7 @@ Aldo Rossi and the Archetypes of Memory
 Manfredo Tafuri and the Venice School
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/22tafuri))
+({{% resource_link 3f0b3029-dd0b-cb02-e88c-fcb63f539db4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -321,7 +323,7 @@ Superstudio - Italy between First and Third Worlds
 1968
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/25_1968))
+({{% resource_link f3e3fbf0-64db-ec3f-1bca-5601c301f50c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -333,7 +335,7 @@ Superstudio - Italy between First and Third Worlds
 Traces on the City
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/26traces))
+({{% resource_link 363dcbd7-13ec-adab-e96d-4fccab1b4a8f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -345,7 +347,7 @@ Traces on the City
 Technofantasy / Megastructure
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/27technomega))
+({{% resource_link 4f8af798-a5e7-994b-fe3a-340ffbe2bf84 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -357,7 +359,7 @@ Technofantasy / Megastructure
 Late CIAM and the Architecture of the Welfare State
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/28ciam))
+({{% resource_link 6f071df3-7b90-359d-72b4-2706dbbdc37a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

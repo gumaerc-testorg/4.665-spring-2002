@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides an introduction to the course and information
+  on requirements and meeting times.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
