@@ -6,6 +6,7 @@ file: /courses/4-665-contemporary-architecture-and-critical-debate-spring-2002/a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 13mods.pdf
 uid: acc9444f-d6b7-c875-fca7-9bac2371c70e
 ---
 The lecture notes from this course are a comprehensive listing of the images viewed and discussed in each class.
-

@@ -6,6 +6,7 @@ file: /courses/4-665-contemporary-architecture-and-critical-debate-spring-2002/2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 5bodies.pdf
 uid: 257eb663-0980-f17e-54cd-914e418f91db
 ---
 The lecture notes from this course are a comprehensive listing of the images viewed and discussed in each class.
-
