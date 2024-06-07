@@ -3,6 +3,7 @@ content_type: resource
 description: The lecture notes from this course are a comprehensive listing of the
   images viewed and discussed in each class.
 file: /courses/4-665-contemporary-architecture-and-critical-debate-spring-2002/0e169930b3070c1fd3f5243374a28d8a_12frampton.pdf
+file_size: 18215
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
