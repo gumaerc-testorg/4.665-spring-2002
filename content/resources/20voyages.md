@@ -2,7 +2,7 @@
 content_type: resource
 description: The lecture notes from this course are a comprehensive listing of the
   images viewed and discussed in each class.
-file: /ol-ocw-studio-app/courses/4-665-contemporary-architecture-and-critical-debate-spring-2002/d1f2002b7d8cd46d3b87121e13215734_20voyages.pdf
+file: /courses/4-665-contemporary-architecture-and-critical-debate-spring-2002/d1f2002b7d8cd46d3b87121e13215734_20voyages.pdf
 file_size: 19723
 file_type: application/pdf
 learning_resource_types:
