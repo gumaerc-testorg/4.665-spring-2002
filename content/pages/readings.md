@@ -67,7 +67,7 @@ Blobs, Curves and the Formless
 
 Lynn, Greg. "Animate Form." In _Animate Form_. New York: Princeton Architectural Press, 1999. ISBN: 1568980833.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780942299434) Krauss, Rosalind, and Yves-Alain Bois. Introduction - "The Use Value of the Formless," and Conclusion - "The Destiny of the Informe." In _Formless: A User's Guide_. Cambridge, MA: MIT Press, 1997. ISBN: 9780942299434.
+{{% resource_link "da3720ed-e989-439e-b7fe-7671102ca6c8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Krauss, Rosalind, and Yves-Alain Bois. Introduction - "The Use Value of the Formless," and Conclusion - "The Destiny of the Informe." In _Formless: A User's Guide_. Cambridge, MA: MIT Press, 1997. ISBN: 9780942299434.
 
 _Suggested Readings_
 
@@ -163,7 +163,7 @@ Architecture and Deconstruction
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262082617) Derrida, Jacques. "Point de folie - Maintenant l'architecture." _La Case Vide: La Villete_ (1985). Edited by Bernard Tschumi.
+{{% resource_link "69c9e5db-45f8-4674-852f-24a4c482b2a0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Derrida, Jacques. "Point de folie - Maintenant l'architecture." _La Case Vide: La Villete_ (1985). Edited by Bernard Tschumi.
 
 Reprinted in _Architecture Theory since 1968_. Edited by by K. Michael Hays. Cambridge, MA: MIT Press, 1998. ISBN: 9780262082617.
 
@@ -171,7 +171,7 @@ Speaks, Michael. "Negotiating the Hypertext: Bernard Tschumi's _La Villette_." I
 
 _Suggested Readings_
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262050494) Evans, Robin. "Persistent Breakage." In _The Projective Cast: Architecture and Its Three Geometries_. Cambridge, MA: MIT Press, 1995.
+{{% resource_link "2b5cbd47-60ec-4b3c-9d80-e42d4519b3c8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Evans, Robin. "Persistent Breakage." In _The Projective Cast: Architecture and Its Three Geometries_. Cambridge, MA: MIT Press, 1995.
 
 
 {{< tdclose >}}
@@ -189,11 +189,11 @@ The New York Five
 
 Eisenman, Peter. "Aspects of Modernism: Maison Dom-ino and the Self-Referential Sign." In _Oppositions Reader_. Edited by K. Michael Hays. New York: Princeton Architectural Press, 1998. ISBN: 1568981538.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262082617) Rowe, Colin. Introduction to _Five Architects._ Reprinted in _Architecture Theory since 1968_. Edited by K. Michael Hays. Cambridge, MA: MIT Press, 1998. ISBN: 9780262082617.
+{{% resource_link "69c9e5db-45f8-4674-852f-24a4c482b2a0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rowe, Colin. Introduction to _Five Architects._ Reprinted in _Architecture Theory since 1968_. Edited by K. Michael Hays. Cambridge, MA: MIT Press, 1998. ISBN: 9780262082617.
 
 _Suggested Reading_
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262680370) Rowe, Colin. "The Mathematics of the Ideal Villa." In _The Mathematics of the Ideal Villa and Other Essays_. Cambridge, MA: MIT Press, 1982.
+{{% resource_link "f17f41ad-5c87-44fe-88ba-e3525a459ad9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rowe, Colin. "The Mathematics of the Ideal Villa." In _The Mathematics of the Ideal Villa and Other Essays_. Cambridge, MA: MIT Press, 1982.
 
 
 {{< tdclose >}}
@@ -229,7 +229,7 @@ Huyssen, Andreas. "Mapping the Postmodern." In _A Post-Modern Reader_. Edited by
 
 _Suggested Readings_
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262082617) Habermas, Jürgen. "Modernism and Postmodernism Architecture." In _Architecture Theory Since 1968_. Edited by K. Michael Hays, 1981 reprint. Cambridge, MA: MIT Press, 1998, pp. 412-426.
+{{% resource_link "69c9e5db-45f8-4674-852f-24a4c482b2a0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Habermas, Jürgen. "Modernism and Postmodernism Architecture." In _Architecture Theory Since 1968_. Edited by K. Michael Hays, 1981 reprint. Cambridge, MA: MIT Press, 1998, pp. 412-426.
 
 Baudrillard, Jean. "The Ecstasy of Communication." In _The Anti-Aesthetic: Essays on Postmodern Culture_. Edited by Hal Foster. Seattle, WA: Bay Press, 1983.
 
@@ -249,7 +249,7 @@ Kenneth Frampton and Critical Regionalism
 
 Frampton, Kenneth. "Towards a Critical Regionalism: Six Points for an Architecture of Resistance." In _The Anti-Aesthetic: Essays on Postmodern Culture_. Edited by Hal Foster. Seattle, WA: Bay Press, 1983. ISBN: 094192002X.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262082617) ———. "The Status of Man and his Objects." Reprinted in _Architecture Theory since 1968_. Edited by K. Michael Hays. Cambridge, MA: MIT Press, 1998. ISBN: 9780262082617.
+{{% resource_link "69c9e5db-45f8-4674-852f-24a4c482b2a0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. "The Status of Man and his Objects." Reprinted in _Architecture Theory since 1968_. Edited by K. Michael Hays. Cambridge, MA: MIT Press, 1998. ISBN: 9780262082617.
 
 _Suggested Readings_
 
@@ -313,9 +313,9 @@ Critiques of Modernism
 
 Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. New York: Oxford University Press, 1977. pp. 10-74. ISBN: 0195019199.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262082617) Rowe, Colin, and Fred Koetter. Selections from _Collage City_. Reprinted in _Architecture Theory since 1968_. Edited by K. Michael Hays. Cambridge, MA: MIT Press, 1998. ISBN: 9780262082617.
+{{% resource_link "69c9e5db-45f8-4674-852f-24a4c482b2a0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rowe, Colin, and Fred Koetter. Selections from _Collage City_. Reprinted in _Architecture Theory since 1968_. Edited by K. Michael Hays. Cambridge, MA: MIT Press, 1998. ISBN: 9780262082617.
 
- [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262620017) Lynch, Kevin. "City Form," Chapter IV in _The Image of the City_. Cambridge, MA: MIT Press, 1960. ISBN: 9780262620017.
+ {{% resource_link "b0d5c230-006e-4ae0-86b7-51bad6c0ba18" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lynch, Kevin. "City Form," Chapter IV in _The Image of the City_. Cambridge, MA: MIT Press, 1960. ISBN: 9780262620017.
 
 _Suggested Readings_
 
@@ -335,7 +335,7 @@ Theory Outtake 2
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631594) McLuhan, Marshall and Lewis H. Lapham. _Understanding Media: The Extensions of Man_. Cambridge, MA: MIT Press, 1994. ISBN: 9780262631594.
+{{% resource_link "87608076-47e3-43ad-907f-9e838e07902c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} McLuhan, Marshall and Lewis H. Lapham. _Understanding Media: The Extensions of Man_. Cambridge, MA: MIT Press, 1994. ISBN: 9780262631594.
 
 Wiener, Norbert. Chapter I, "Cybernetics in History," and Chapter II, "Progress and Entropy." In _The Human Use of Human Being: Cybernetics and Society_. New York: Doubleday, 1954.
 
@@ -413,7 +413,7 @@ Voyages into the Surface - Robert Venturi and Denise Scott-Brown
 
 Venturi, Robert. Selections from _Complexity and Contradiction in Architecture_. New York: Museum of Modern Art, 1977. ISBN: 0870702815.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262220200) Venturi, Robert, Denise Scott Brown, and Steven Izenour. "Theory of Ugly and Ordinary and Related and Contrary Theories." In _Learning from Las Vegas: The Forgotten Symbolism of Architectural Form_. Cambridge, MA: MIT Press, 1977, 1972. ISBN: 9780262220200.
+{{% resource_link "fcf621e8-d158-4e3f-b119-cd3473e9e246" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Venturi, Robert, Denise Scott Brown, and Steven Izenour. "Theory of Ugly and Ordinary and Related and Contrary Theories." In _Learning from Las Vegas: The Forgotten Symbolism of Architectural Form_. Cambridge, MA: MIT Press, 1977, 1972. ISBN: 9780262220200.
 
 _Suggested Readings_
 
@@ -459,11 +459,11 @@ Manfredo Tafuri and the Venice School
 
 Tafuri, Manfredo. "_L'architecture dans le boudoir._" In _The Sphere and the Labyrinth_. Cambridge, MA: MIT Press, 1990. ISBN: 9780262700399.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262082617) Cohen, Jean-Louis. "The Italophiles at Work." Reprinted in _Architecture Theory since 1968_. Edited by K. Michael Hays. Cambridge, MA: MIT Press, 1998. ISBN: 9780262082617.
+{{% resource_link "69c9e5db-45f8-4674-852f-24a4c482b2a0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cohen, Jean-Louis. "The Italophiles at Work." Reprinted in _Architecture Theory since 1968_. Edited by K. Michael Hays. Cambridge, MA: MIT Press, 1998. ISBN: 9780262082617.
 
 _Suggested Readings_
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262700207) Tafuri, Manfredo. "Architecture and its Double: Semiology and Formalism." In _Architecture and Utopia: Design and Capitalist Development_. Translated by Barbara Luigia La Penta. Cambridge, MA: MIT Press, 1979.
+{{% resource_link "caf29a45-1c66-4ef6-87bf-ea8cf1a7693f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tafuri, Manfredo. "Architecture and its Double: Semiology and Formalism." In _Architecture and Utopia: Design and Capitalist Development_. Translated by Barbara Luigia La Penta. Cambridge, MA: MIT Press, 1979.
 
 
 {{< tdclose >}}
@@ -537,7 +537,7 @@ Traces on the City
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262193924) Sadler, Simon. "Formulary for a New Urbanism: Rethinking the City." Chapter 2 in _The Situationist City_. Cambridge, MA: MIT Press, 1998. ISBN: 9780262193924.
+{{% resource_link "a17f0a75-787e-4fe3-8076-a42e19b1b7ca" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Sadler, Simon. "Formulary for a New Urbanism: Rethinking the City." Chapter 2 in _The Situationist City_. Cambridge, MA: MIT Press, 1998. ISBN: 9780262193924.
 
 Wigley, Mark. "The Hyper-Architecture of Desire." In _Constant's New Babylon: The Hyper-Architecture of Desire._ Rotterdam: Center for Contemporary Art, 1998. ISBN: 9064503435.
 
@@ -579,7 +579,7 @@ Late CIAM and the Architecture of the Welfare State
 
 Smithson, Alison, ed. "CIAM/Team 10." _Architectural Design_. May 1960, pp. 175-207.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262133647) Mumford, Eric. "From the 'Heart of the City' to the End of CIAM." In _The CIAM Discourse on Urbanism, 1928-1960_. Cambridge, MA: MIT Press, 2000. ISBN: 9780262133647.
+{{% resource_link "8935bcdc-8fb9-4869-ac6e-b31b1d32259b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mumford, Eric. "From the 'Heart of the City' to the End of CIAM." In _The CIAM Discourse on Urbanism, 1928-1960_. Cambridge, MA: MIT Press, 2000. ISBN: 9780262133647.
 
 
 {{< tdclose >}}
